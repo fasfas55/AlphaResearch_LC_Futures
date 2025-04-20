@@ -50,6 +50,7 @@ My original trading idea was based on:
 | Return | +42% (42,000 → 60,000 CNY)  
 | Largest gain | 6,100 CNY in a single short  
 | Strategy type | Short-biased, trend following, based on mean reversion signals
+
 ![IMG_4211](https://github.com/user-attachments/assets/89c6afee-688c-41aa-9420-f7823229f485)
 
 

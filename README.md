@@ -54,11 +54,7 @@ My original trading idea was based on:
 ---
 
 ## 🗂️ Folder Structure
-📁 data/ # Cleaned LC futures + spot + OI data
-📁 scripts/ # Python files (backtest, model, indicators) 
-📁 images/ # Charts, visualizations 
-README.md # Project summary
-
+📁 data/ # Cleaned LC futures + spot + OI data 📁 scripts/ # Python files (backtest, model, indicators) 📁 images/ # Charts, visualizations README.md # Project summary
 
 ---
 
